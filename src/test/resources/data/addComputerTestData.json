@@ -1,0 +1,14 @@
+[
+  {
+    "name":"comp1",
+    "introduced":"2014-09-01",
+    "discontinued":"2014-10-01",
+    "company": "1"
+  },
+  {
+    "name":"comp2",
+    "introduced":"2014-09-03",
+    "discontinued":"2014-10-02" ,
+    "company": "1"
+  }
+]
